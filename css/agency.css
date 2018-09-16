@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #374095;
 }
 
 a:hover {
-  color: #fec503;
+  color: #FE8313;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #374095 !important;
 }
 
 h1,
@@ -250,7 +250,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: rgb(55, 64, 149, 0.9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -452,7 +452,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #374095;
 }
 
 .timeline > li .timeline-image h4 {
@@ -595,7 +595,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-  background-color: #212529;
+  background-color: #181819;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
